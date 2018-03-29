@@ -1,2 +1,3 @@
 # GAN
-New GAN
+The First GAN Net
+
